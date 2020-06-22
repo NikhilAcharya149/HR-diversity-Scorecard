@@ -6,4 +6,4 @@ Here is the link - https://public.tableau.com/profile/lovelytics#!/vizhome/HRDiv
 **The dashbaord is helpful in visually analyzing workforce and gender diveristy acorss HR metrics such as job level, tenure and 
 satisfaction, performance etc.**
 
-P.S. **DATA IS FAKE**
+P.S. **DATA IS FAKE!!!**
