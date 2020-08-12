@@ -1,4 +1,4 @@
-# HR Diversity Scorecard
+# HR Diversity Scorecard (AWS QuickSight)
 
 The dashboard was devloped using **AWS QuickSight** data visualization tool. **The dashbaord is helpful in visually analyzing workforce and gender diveristy acorss HR metrics such as job level, tenure and 
 satisfaction, performance etc.**
